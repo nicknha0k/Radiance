@@ -61,8 +61,11 @@ python main.py
 
 # 📁 ESTRUTURA DO PROJETO:
  Radiance/
- ├── main.py              # Entry point principal
- ├── requirements.txt     # Dependências Python3
+ 
+ ├── main.py   
+ 
+ ├── requirements.txt
+ 
 
 # 📞 SUPORTE:
  • Issues: https://github.com/nicknha0k/Radiance/issues
