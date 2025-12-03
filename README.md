@@ -14,11 +14,20 @@ python main.py
 ```
 
 # 📦 DEPENDÊNCIAS PRINCIPAIS:
- • discord.py     - API Discord completa
- • aiohttp        - Requests assíncronas
- • beautifulsoup4 - Parsing HTML
- • requests       - HTTP client
- • tkinter        - Interface gráfica (já vem com Python)
+ • discord.py
+ - API Discord completa
+
+ • aiohttp
+ - Requests assíncronas
+
+ • beautifulsoup4
+ - Parsing HTML
+   
+ • requests       
+ - HTTP client
+   
+ • tkinter        
+ - Interface gráfica (já vem com Python)
 
 # 🎯 FUNCIONALIDADES PRINCIPAIS:
 
