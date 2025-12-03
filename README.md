@@ -58,7 +58,7 @@ cd Radiance
 pip install -r requirements.txt
 python main.py
 ```
-![imagem radiance](https://ibb.co/FqnwtFhZ)
+<img src="https://github.com/nicknha0k/Radiance/blob/main/assets/image.png"/>
 ## 📦 DEPENDÊNCIAS PRINCIPAIS:
  • discord.py
  - API Discord completa
