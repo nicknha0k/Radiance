@@ -140,6 +140,9 @@ o desenvolvedor não se responsabiliza por qualquer dano causado com a ferrament
 
 -use por conta e risco
 
+algumas funçoes não funcionam em linux e foram feitas totalmente pensadas para windows
+
+o codigo ainda esta em produção!
 ## 🎨 CRÉDITOS:
  Desenvolvido por w_ky
  
