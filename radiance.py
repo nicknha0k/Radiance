@@ -25,7 +25,6 @@ import requests
 import aiohttp
 import itertools
 import string
-import msvcrt
 import os
 import shutil
 import platform
@@ -166,7 +165,6 @@ def abrir_chrome_download(url_download):
 
 def wait_for_key():
     print(f"{YELLOW}[>] Pressione qualquer tecla para voltar ao menu...{RESET}")
-    msvcrt.getch()
     clear_console()
     menu()
 
